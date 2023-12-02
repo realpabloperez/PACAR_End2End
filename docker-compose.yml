@@ -23,4 +23,15 @@ services:
       ME_CONFIG_MONGODB_ADMINUSERNAME: root
       ME_CONFIG_MONGODB_ADMINPASSWORD: example
 
+  jupyter:
+    image: jupyter/datascience-notebook
+    restart: always
+    ports:
+      - 8888:8888
+    environment:
+      JUPYTER_TOKEN: "admin"
+    volumes:
+      - ./notebooks:/home/jovyan/work
+
+
 
