@@ -1,25 +1,26 @@
 {
-  "address": "San Jos\u00e9 de Calasanz - Salas Quiroga",
-  "number": 26,
+  "address": "Plaza Ayuntamiento - Cotanda",
+  "number": 11,
   "open": "T",
-  "available": 7,
-  "free": 6,
-  "total": 15,
-  "ticket": "F",
-  "updated_at": "02/12/2023 11:01:08",
+  "available": 11,
+  "free": 16,
+  "total": 27,
+  "ticket": "T",
+  "updated_at": "02/12/2023 13:00:39",
   "geo_shape": {
     "type": "Feature",
     "geometry": {
       "coordinates": [
-        -0.3860524260304749,
-        39.46619531059966
+        -0.3767843903416451,
+        39.47118632283677
       ],
       "type": "Point"
     },
     "properties": {}
   },
   "geo_point_2d": {
-    "lon": -0.3860524260304749,
-    "lat": 39.46619531059966
-  }
+    "lon": -0.3767843903416451,
+    "lat": 39.47118632283677
+  },
+  "timestamp": "20231202130039"
 }

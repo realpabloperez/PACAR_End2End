@@ -1,25 +1,26 @@
 {
-  "address": "Pintor Stolz - Nueve de Octubre",
-  "number": 217,
+  "address": "Ricardo Mu\u00f1oz Suay - Mar\u00eda Jos\u00e9 Victoria Fuster (C.C. El Saler)",
+  "number": 49,
   "open": "T",
-  "available": 2,
-  "free": 23,
+  "available": 22,
+  "free": 3,
   "total": 25,
-  "ticket": "T",
-  "updated_at": "02/12/2023 11:01:08",
+  "ticket": "F",
+  "updated_at": "02/12/2023 13:00:39",
   "geo_shape": {
     "type": "Feature",
     "geometry": {
       "coordinates": [
-        -0.40459648652865626,
-        39.47032833321364
+        -0.3571104198826364,
+        39.45298693239739
       ],
       "type": "Point"
     },
     "properties": {}
   },
   "geo_point_2d": {
-    "lon": -0.40459648652865626,
-    "lat": 39.47032833321364
-  }
+    "lon": -0.3571104198826364,
+    "lat": 39.45298693239739
+  },
+  "timestamp": "20231202130039"
 }

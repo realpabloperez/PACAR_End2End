@@ -1,25 +1,26 @@
 {
-  "address": "Doctor Lluch - Virgen del Sufragio",
-  "number": 158,
+  "address": "Fontanars dels Aforins - Vall d'Uix\u00f3",
+  "number": 198,
   "open": "T",
-  "available": 15,
-  "free": 0,
-  "total": 15,
-  "ticket": "F",
-  "updated_at": "02/12/2023 11:01:08",
+  "available": 10,
+  "free": 10,
+  "total": 20,
+  "ticket": "T",
+  "updated_at": "02/12/2023 13:00:39",
   "geo_shape": {
     "type": "Feature",
     "geometry": {
       "coordinates": [
-        -0.3277192268301427,
-        39.46669828513057
+        -0.395316462028443,
+        39.46088029740053
       ],
       "type": "Point"
     },
     "properties": {}
   },
   "geo_point_2d": {
-    "lon": -0.3277192268301427,
-    "lat": 39.46669828513057
-  }
+    "lon": -0.395316462028443,
+    "lat": 39.46088029740053
+  },
+  "timestamp": "20231202130039"
 }

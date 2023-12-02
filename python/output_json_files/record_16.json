@@ -1,25 +1,26 @@
 {
-  "address": "San Vicente Martir - Doctor Vil\u00e1 Barber\u00e1",
-  "number": 27,
+  "address": "Micer Masc\u00f3 - Rodriguez Fornos",
+  "number": 81,
   "open": "T",
-  "available": 0,
-  "free": 20,
+  "available": 11,
+  "free": 9,
   "total": 20,
   "ticket": "F",
-  "updated_at": "02/12/2023 11:01:08",
+  "updated_at": "02/12/2023 13:00:39",
   "geo_shape": {
     "type": "Feature",
     "geometry": {
       "coordinates": [
-        -0.3818514137102655,
-        39.463362299305594
+        -0.36097833354659675,
+        39.47512832851177
       ],
       "type": "Point"
     },
     "properties": {}
   },
   "geo_point_2d": {
-    "lon": -0.3818514137102655,
-    "lat": 39.463362299305594
-  }
+    "lon": -0.36097833354659675,
+    "lat": 39.47512832851177
+  },
+  "timestamp": "20231202130039"
 }

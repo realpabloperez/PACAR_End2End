@@ -1,25 +1,26 @@
 {
-  "address": "Naranjos - Ingeniero Fausto Elio",
-  "number": 109,
+  "address": "Salamanca - Conde Altea",
+  "number": 31,
   "open": "T",
-  "available": 13,
-  "free": 7,
-  "total": 20,
-  "ticket": "T",
-  "updated_at": "02/12/2023 11:01:08",
+  "available": 6,
+  "free": 13,
+  "total": 19,
+  "ticket": "F",
+  "updated_at": "02/12/2023 13:00:39",
   "geo_shape": {
     "type": "Feature",
     "geometry": {
       "coordinates": [
-        -0.3335102388084858,
-        39.4768193210939
+        -0.3650283531086902,
+        39.467365304622646
       ],
       "type": "Point"
     },
     "properties": {}
   },
   "geo_point_2d": {
-    "lon": -0.3335102388084858,
-    "lat": 39.4768193210939
-  }
+    "lon": -0.3650283531086902,
+    "lat": 39.467365304622646
+  },
+  "timestamp": "20231202130039"
 }

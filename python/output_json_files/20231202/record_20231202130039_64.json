@@ -1,0 +1,25 @@
+{
+  "address": "Av. Puerto - Plaza Tribunal de les Aig\u00fces",
+  "number": 71,
+  "open": "T",
+  "available": 10,
+  "free": 10,
+  "total": 20,
+  "ticket": "T",
+  "updated_at": "02/12/2023 13:00:39",
+  "geo_shape": {
+    "type": "Feature",
+    "geometry": {
+      "coordinates": [
+        -0.33353125122308164,
+        39.46038026686525
+      ],
+      "type": "Point"
+    },
+    "properties": {}
+  },
+  "geo_point_2d": {
+    "lon": -0.33353125122308164,
+    "lat": 39.46038026686525
+  }
+}

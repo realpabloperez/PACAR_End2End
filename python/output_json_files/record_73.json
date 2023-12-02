@@ -1,25 +1,26 @@
 {
-  "address": "San Pancracio - Periodista Llorente",
-  "number": 138,
+  "address": "Maximiliano Thous - Luz Casanova",
+  "number": 134,
   "open": "T",
-  "available": 7,
-  "free": 13,
+  "available": 11,
+  "free": 9,
   "total": 20,
   "ticket": "F",
-  "updated_at": "02/12/2023 11:01:08",
+  "updated_at": "02/12/2023 13:00:39",
   "geo_shape": {
     "type": "Feature",
     "geometry": {
       "coordinates": [
-        -0.38422240207482833,
-        39.48819038284581
+        -0.37333936513208965,
+        39.48765637635625
       ],
       "type": "Point"
     },
     "properties": {}
   },
   "geo_point_2d": {
-    "lon": -0.38422240207482833,
-    "lat": 39.48819038284581
-  }
+    "lon": -0.37333936513208965,
+    "lat": 39.48765637635625
+  },
+  "timestamp": "20231202130039"
 }

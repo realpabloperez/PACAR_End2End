@@ -1,0 +1,25 @@
+{
+  "address": "Valle de la Ballestera - Hospital Nueve de Octubre",
+  "number": 223,
+  "open": "T",
+  "available": 0,
+  "free": 20,
+  "total": 20,
+  "ticket": "T",
+  "updated_at": "02/12/2023 13:00:39",
+  "geo_shape": {
+    "type": "Feature",
+    "geometry": {
+      "coordinates": [
+        -0.4011874677803583,
+        39.47855835893999
+      ],
+      "type": "Point"
+    },
+    "properties": {}
+  },
+  "geo_point_2d": {
+    "lon": -0.4011874677803583,
+    "lat": 39.47855835893999
+  }
+}

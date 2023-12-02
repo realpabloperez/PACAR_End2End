@@ -1,25 +1,26 @@
 {
-  "address": "Gasc\u00f3 Oliag - Primado Reig",
-  "number": 117,
+  "address": "CALLE SANTA AMALIA  2, esquina POETA BODRIA",
+  "number": 131,
   "open": "T",
-  "available": 22,
-  "free": 7,
-  "total": 30,
+  "available": 2,
+  "free": 18,
+  "total": 20,
   "ticket": "T",
-  "updated_at": "02/12/2023 11:01:08",
+  "updated_at": "02/12/2023 13:00:39",
   "geo_shape": {
     "type": "Feature",
     "geometry": {
       "coordinates": [
-        -0.357065317141581,
-        39.47925133992885
+        -0.3729122732215235,
+        39.48141722170027
       ],
       "type": "Point"
     },
     "properties": {}
   },
   "geo_point_2d": {
-    "lon": -0.357065317141581,
-    "lat": 39.47925133992885
-  }
+    "lon": -0.3729122732215235,
+    "lat": 39.48141722170027
+  },
+  "timestamp": "20231202130039"
 }

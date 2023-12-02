@@ -1,0 +1,25 @@
+{
+  "address": "Conde Torrefiel - Cecilio Pl\u00e1",
+  "number": 235,
+  "open": "T",
+  "available": 0,
+  "free": 15,
+  "total": 15,
+  "ticket": "T",
+  "updated_at": "02/12/2023 13:00:39",
+  "geo_shape": {
+    "type": "Feature",
+    "geometry": {
+      "coordinates": [
+        -0.3772033703255944,
+        39.49804541205544
+      ],
+      "type": "Point"
+    },
+    "properties": {}
+  },
+  "geo_point_2d": {
+    "lon": -0.3772033703255944,
+    "lat": 39.49804541205544
+  }
+}

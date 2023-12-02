@@ -1,0 +1,25 @@
+{
+  "address": "Doctor Vicente Zaragoz\u00e1 - Emilio Bar\u00f3",
+  "number": 120,
+  "open": "T",
+  "available": 5,
+  "free": 13,
+  "total": 18,
+  "ticket": "T",
+  "updated_at": "02/12/2023 13:00:39",
+  "geo_shape": {
+    "type": "Feature",
+    "geometry": {
+      "coordinates": [
+        -0.36204632906281087,
+        39.484880361257815
+      ],
+      "type": "Point"
+    },
+    "properties": {}
+  },
+  "geo_point_2d": {
+    "lon": -0.36204632906281087,
+    "lat": 39.484880361257815
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "address": "Av Puerto 19 (Telef\u00f3nica)",
+  "number": 63,
+  "open": "T",
+  "available": 16,
+  "free": 4,
+  "total": 20,
+  "ticket": "T",
+  "updated_at": "02/12/2023 13:00:39",
+  "geo_shape": {
+    "type": "Feature",
+    "geometry": {
+      "coordinates": [
+        -0.358414330727018,
+        39.46777930285978
+      ],
+      "type": "Point"
+    },
+    "properties": {}
+  },
+  "geo_point_2d": {
+    "lon": -0.358414330727018,
+    "lat": 39.46777930285978
+  }
+}

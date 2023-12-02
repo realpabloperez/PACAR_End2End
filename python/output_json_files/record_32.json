@@ -1,25 +1,26 @@
 {
-  "address": "Francisco Cubells - San Jos\u00e9 de la Vega",
-  "number": 159,
+  "address": "Carteros - Mossen Febrer",
+  "number": 208,
   "open": "T",
-  "available": 10,
-  "free": 7,
-  "total": 17,
+  "available": 9,
+  "free": 11,
+  "total": 20,
   "ticket": "F",
-  "updated_at": "02/12/2023 11:01:08",
+  "updated_at": "02/12/2023 13:00:39",
   "geo_shape": {
     "type": "Feature",
     "geometry": {
       "coordinates": [
-        -0.3347222532485526,
-        39.463449276866356
+        -0.38857844617931064,
+        39.451692263769644
       ],
       "type": "Point"
     },
     "properties": {}
   },
   "geo_point_2d": {
-    "lon": -0.3347222532485526,
-    "lat": 39.463449276866356
-  }
+    "lon": -0.38857844617931064,
+    "lat": 39.451692263769644
+  },
+  "timestamp": "20231202130039"
 }

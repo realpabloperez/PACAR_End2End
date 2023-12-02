@@ -1,0 +1,25 @@
+{
+  "address": "Reig Genov\u00e9s - Ram\u00f3n Contreras Mongrell",
+  "number": 178,
+  "open": "T",
+  "available": 6,
+  "free": 14,
+  "total": 20,
+  "ticket": "F",
+  "updated_at": "02/12/2023 13:00:39",
+  "geo_shape": {
+    "type": "Feature",
+    "geometry": {
+      "coordinates": [
+        -0.3705063522665271,
+        39.49221639017785
+      ],
+      "type": "Point"
+    },
+    "properties": {}
+  },
+  "geo_point_2d": {
+    "lon": -0.3705063522665271,
+    "lat": 39.49221639017785
+  }
+}

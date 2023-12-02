@@ -1,0 +1,25 @@
+{
+  "address": "Blasco Iba\u00f1ez - Poeta Dur\u00e1n Tortajada",
+  "number": 93,
+  "open": "T",
+  "available": 29,
+  "free": 9,
+  "total": 38,
+  "ticket": "T",
+  "updated_at": "02/12/2023 13:00:39",
+  "geo_shape": {
+    "type": "Feature",
+    "geometry": {
+      "coordinates": [
+        -0.34380927742382206,
+        39.472282310670764
+      ],
+      "type": "Point"
+    },
+    "properties": {}
+  },
+  "geo_point_2d": {
+    "lon": -0.34380927742382206,
+    "lat": 39.472282310670764
+  }
+}

@@ -2,11 +2,11 @@
   "address": "Fernando el Cat\u00f3lico - Erudito Orellana",
   "number": 23,
   "open": "T",
-  "available": 6,
-  "free": 13,
+  "available": 7,
+  "free": 12,
   "total": 19,
   "ticket": "T",
-  "updated_at": "02/12/2023 11:01:08",
+  "updated_at": "02/12/2023 13:00:39",
   "geo_shape": {
     "type": "Feature",
     "geometry": {
@@ -21,5 +21,6 @@
   "geo_point_2d": {
     "lon": -0.3861784216967592,
     "lat": 39.471628328748515
-  }
+  },
+  "timestamp": "20231202130039"
 }

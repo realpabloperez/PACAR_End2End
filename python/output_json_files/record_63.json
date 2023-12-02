@@ -1,25 +1,26 @@
 {
-  "address": "Pie de la Cruz - Rejas",
-  "number": 147,
+  "address": "Av. Puerto - Serrer\u00eda",
+  "number": 69,
   "open": "T",
-  "available": 7,
-  "free": 7,
-  "total": 15,
+  "available": 19,
+  "free": 6,
+  "total": 25,
   "ticket": "F",
-  "updated_at": "02/12/2023 11:01:08",
+  "updated_at": "02/12/2023 13:00:39",
   "geo_shape": {
     "type": "Feature",
     "geometry": {
       "coordinates": [
-        -0.3802074001545322,
-        39.47320133107913
+        -0.3387212679875118,
+        39.46195227384504
       ],
       "type": "Point"
     },
     "properties": {}
   },
   "geo_point_2d": {
-    "lon": -0.3802074001545322,
-    "lat": 39.47320133107913
-  }
+    "lon": -0.3387212679875118,
+    "lat": 39.46195227384504
+  },
+  "timestamp": "20231202130039"
 }

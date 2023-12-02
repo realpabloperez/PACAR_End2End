@@ -1,0 +1,25 @@
+{
+  "address": "Cra. Malilla - Olt\u00e1",
+  "number": 192,
+  "open": "T",
+  "available": 15,
+  "free": 5,
+  "total": 20,
+  "ticket": "T",
+  "updated_at": "02/12/2023 13:00:39",
+  "geo_shape": {
+    "type": "Feature",
+    "geometry": {
+      "coordinates": [
+        -0.3787144113919625,
+        39.45263726161547
+      ],
+      "type": "Point"
+    },
+    "properties": {}
+  },
+  "geo_point_2d": {
+    "lon": -0.3787144113919625,
+    "lat": 39.45263726161547
+  }
+}
