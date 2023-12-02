@@ -1,25 +1,26 @@
 {
-  "address": "Blasco Iba\u00f1ez, 28 (F. Geograf\u00eda e Historia)",
-  "number": 88,
+  "address": "Naranjos (Magisterio)",
+  "number": 95,
   "open": "T",
-  "available": 7,
-  "free": 33,
-  "total": 40,
-  "ticket": "T",
-  "updated_at": "02/12/2023 11:01:08",
+  "available": 22,
+  "free": 11,
+  "total": 33,
+  "ticket": "F",
+  "updated_at": "02/12/2023 13:00:39",
   "geo_shape": {
     "type": "Feature",
     "geometry": {
       "coordinates": [
-        -0.36114233248377353,
-        39.477512336096844
+        -0.34611927939668474,
+        39.47983533734356
       ],
       "type": "Point"
     },
     "properties": {}
   },
   "geo_point_2d": {
-    "lon": -0.36114233248377353,
-    "lat": 39.477512336096844
-  }
+    "lon": -0.34611927939668474,
+    "lat": 39.47983533734356
+  },
+  "timestamp": "20231202130039"
 }

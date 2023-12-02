@@ -1,0 +1,25 @@
+{
+  "address": "Cast\u00e1n Tobe\u00f1as - Patriques",
+  "number": 220,
+  "open": "T",
+  "available": 4,
+  "free": 12,
+  "total": 16,
+  "ticket": "T",
+  "updated_at": "02/12/2023 13:00:39",
+  "geo_shape": {
+    "type": "Feature",
+    "geometry": {
+      "coordinates": [
+        -0.3983214623957442,
+        39.47385534208041
+      ],
+      "type": "Point"
+    },
+    "properties": {}
+  },
+  "geo_point_2d": {
+    "lon": -0.3983214623957442,
+    "lat": 39.47385534208041
+  }
+}

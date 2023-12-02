@@ -1,25 +1,26 @@
 {
-  "address": "Alfahuir - Duque de Mandas",
-  "number": 127,
+  "address": "Plaza Badajoz",
+  "number": 145,
   "open": "T",
-  "available": 13,
-  "free": 7,
-  "total": 20,
+  "available": 1,
+  "free": 14,
+  "total": 15,
   "ticket": "F",
-  "updated_at": "02/12/2023 11:01:08",
+  "updated_at": "02/12/2023 13:00:39",
   "geo_shape": {
     "type": "Feature",
     "geometry": {
       "coordinates": [
-        -0.3644463333304693,
-        39.49059138177909
+        -0.398395456094638,
+        39.48154736759815
       ],
       "type": "Point"
     },
     "properties": {}
   },
   "geo_point_2d": {
-    "lon": -0.3644463333304693,
-    "lat": 39.49059138177909
-  }
+    "lon": -0.398395456094638,
+    "lat": 39.48154736759815
+  },
+  "timestamp": "20231202130039"
 }

@@ -1,0 +1,25 @@
+{
+  "address": "Conde Altea - Almirante Cadarso",
+  "number": 32,
+  "open": "T",
+  "available": 7,
+  "free": 13,
+  "total": 20,
+  "ticket": "T",
+  "updated_at": "02/12/2023 13:00:39",
+  "geo_shape": {
+    "type": "Feature",
+    "geometry": {
+      "coordinates": [
+        -0.3682473649948816,
+        39.46600630156446
+      ],
+      "type": "Point"
+    },
+    "properties": {}
+  },
+  "geo_point_2d": {
+    "lon": -0.3682473649948816,
+    "lat": 39.46600630156446
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "address": "Catalu\u00f1a - Doctor Vicente Zaragoz\u00e1",
+  "number": 115,
+  "open": "T",
+  "available": 3,
+  "free": 13,
+  "total": 16,
+  "ticket": "F",
+  "updated_at": "02/12/2023 13:00:39",
+  "geo_shape": {
+    "type": "Feature",
+    "geometry": {
+      "coordinates": [
+        -0.3521482985209469,
+        39.481562345598135
+      ],
+      "type": "Point"
+    },
+    "properties": {}
+  },
+  "geo_point_2d": {
+    "lon": -0.3521482985209469,
+    "lat": 39.481562345598135
+  }
+}

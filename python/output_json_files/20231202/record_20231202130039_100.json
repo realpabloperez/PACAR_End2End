@@ -1,0 +1,25 @@
+{
+  "address": "Blasco Iba\u00f1ez - Jaime Roig",
+  "number": 85,
+  "open": "T",
+  "available": 7,
+  "free": 16,
+  "total": 23,
+  "ticket": "F",
+  "updated_at": "02/12/2023 13:00:39",
+  "geo_shape": {
+    "type": "Feature",
+    "geometry": {
+      "coordinates": [
+        -0.3647153422684407,
+        39.479464345022826
+      ],
+      "type": "Point"
+    },
+    "properties": {}
+  },
+  "geo_point_2d": {
+    "lon": -0.3647153422684407,
+    "lat": 39.479464345022826
+  }
+}

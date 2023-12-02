@@ -1,25 +1,26 @@
 {
-  "address": "Gaspar Aguilar - M\u00fasico Penella",
-  "number": 209,
+  "address": "Moreras (Oceanogr\u00e1fico)",
+  "number": 51,
   "open": "T",
-  "available": 11,
-  "free": 7,
-  "total": 18,
+  "available": 19,
+  "free": 1,
+  "total": 20,
   "ticket": "T",
-  "updated_at": "02/12/2023 11:01:08",
+  "updated_at": "02/12/2023 13:00:39",
   "geo_shape": {
     "type": "Feature",
     "geometry": {
       "coordinates": [
-        -0.39301546105732643,
-        39.45208226727133
+        -0.3472273049060467,
+        39.45218324552497
       ],
       "type": "Point"
     },
     "properties": {}
   },
   "geo_point_2d": {
-    "lon": -0.39301546105732643,
-    "lat": 39.45208226727133
-  }
+    "lon": -0.3472273049060467,
+    "lat": 39.45218324552497
+  },
+  "timestamp": "20231202130039"
 }

@@ -1,25 +1,26 @@
 {
-  "address": "Campos Crespo - Juan de Garay",
-  "number": 210,
+  "address": "Reus - Alquer\u00eda de la Estrella",
+  "number": 139,
   "open": "T",
-  "available": 11,
-  "free": 4,
+  "available": 0,
+  "free": 15,
   "total": 15,
-  "ticket": "T",
-  "updated_at": "02/12/2023 11:01:08",
+  "ticket": "F",
+  "updated_at": "02/12/2023 13:00:39",
   "geo_shape": {
     "type": "Feature",
     "geometry": {
       "coordinates": [
-        -0.39671647037206986,
-        39.45555328036534
+        -0.38287339995719183,
+        39.485706374097916
       ],
       "type": "Point"
     },
     "properties": {}
   },
   "geo_point_2d": {
-    "lon": -0.39671647037206986,
-    "lat": 39.45555328036534
-  }
+    "lon": -0.38287339995719183,
+    "lat": 39.485706374097916
+  },
+  "timestamp": "20231202130039"
 }

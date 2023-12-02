@@ -1,0 +1,25 @@
+{
+  "address": "Beato Nicol\u00e1s Factor - Convento de Jes\u00fas",
+  "number": 199,
+  "open": "T",
+  "available": 13,
+  "free": 2,
+  "total": 15,
+  "ticket": "F",
+  "updated_at": "02/12/2023 13:00:39",
+  "geo_shape": {
+    "type": "Feature",
+    "geometry": {
+      "coordinates": [
+        -0.39155844823975844,
+        39.46158829801141
+      ],
+      "type": "Point"
+    },
+    "properties": {}
+  },
+  "geo_point_2d": {
+    "lon": -0.39155844823975844,
+    "lat": 39.46158829801141
+  }
+}

@@ -1,25 +1,26 @@
 {
-  "address": "German\u00edas - Ruzafa",
-  "number": 33,
+  "address": "Autopista del Saler - Antonio Ferrandis (C.C. El Saler)",
+  "number": 50,
   "open": "T",
-  "available": 12,
-  "free": 8,
-  "total": 20,
+  "available": 40,
+  "free": 0,
+  "total": 40,
   "ticket": "T",
-  "updated_at": "02/12/2023 11:01:08",
+  "updated_at": "02/12/2023 13:00:39",
   "geo_shape": {
     "type": "Feature",
     "geometry": {
       "coordinates": [
-        -0.37399038562310283,
-        39.46481830023885
+        -0.3528593228128155,
+        39.453318252515686
       ],
       "type": "Point"
     },
     "properties": {}
   },
   "geo_point_2d": {
-    "lon": -0.37399038562310283,
-    "lat": 39.46481830023885
-  }
+    "lon": -0.3528593228128155,
+    "lat": 39.453318252515686
+  },
+  "timestamp": "20231202130039"
 }

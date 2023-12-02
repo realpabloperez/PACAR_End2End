@@ -1,0 +1,25 @@
+{
+  "address": "Reus - Alquer\u00eda de la Estrella",
+  "number": 139,
+  "open": "T",
+  "available": 0,
+  "free": 15,
+  "total": 15,
+  "ticket": "F",
+  "updated_at": "02/12/2023 13:00:39",
+  "geo_shape": {
+    "type": "Feature",
+    "geometry": {
+      "coordinates": [
+        -0.38287339995719183,
+        39.485706374097916
+      ],
+      "type": "Point"
+    },
+    "properties": {}
+  },
+  "geo_point_2d": {
+    "lon": -0.38287339995719183,
+    "lat": 39.485706374097916
+  }
+}

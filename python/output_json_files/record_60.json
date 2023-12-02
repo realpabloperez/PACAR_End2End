@@ -1,25 +1,26 @@
 {
-  "address": "Gaspar Aguilar - Vicente Parra",
-  "number": 86,
+  "address": "Blasco Iba\u00f1ez - Poeta Dur\u00e1n Tortajada",
+  "number": 93,
   "open": "T",
-  "available": 4,
-  "free": 16,
-  "total": 20,
+  "available": 29,
+  "free": 9,
+  "total": 38,
   "ticket": "T",
-  "updated_at": "02/12/2023 11:01:08",
+  "updated_at": "02/12/2023 13:00:39",
   "geo_shape": {
     "type": "Feature",
     "geometry": {
       "coordinates": [
-        -0.39119345191575566,
-        39.4552402764855
+        -0.34380927742382206,
+        39.472282310670764
       ],
       "type": "Point"
     },
     "properties": {}
   },
   "geo_point_2d": {
-    "lon": -0.39119345191575566,
-    "lat": 39.4552402764855
-  }
+    "lon": -0.34380927742382206,
+    "lat": 39.472282310670764
+  },
+  "timestamp": "20231202130039"
 }

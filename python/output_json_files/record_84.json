@@ -1,25 +1,26 @@
 {
-  "address": "Jer\u00f3nimo Mu\u00f1oz - Gaspar Aguilar",
-  "number": 196,
+  "address": "Padre Barranco - Carlos Ruano Llopis (Pintor)",
+  "number": 225,
   "open": "T",
-  "available": 6,
-  "free": 9,
-  "total": 15,
+  "available": 8,
+  "free": 12,
+  "total": 20,
   "ticket": "T",
-  "updated_at": "02/12/2023 11:01:08",
+  "updated_at": "02/12/2023 13:00:39",
   "geo_shape": {
     "type": "Feature",
     "geometry": {
       "coordinates": [
-        -0.3880664379854734,
-        39.45957528956863
+        -0.40114246019172434,
+        39.488107390420495
       ],
       "type": "Point"
     },
     "properties": {}
   },
   "geo_point_2d": {
-    "lon": -0.3880664379854734,
-    "lat": 39.45957528956863
-  }
+    "lon": -0.40114246019172434,
+    "lat": 39.488107390420495
+  },
+  "timestamp": "20231202130039"
 }

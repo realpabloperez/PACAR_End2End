@@ -1,25 +1,26 @@
 {
-  "address": "Gregorio Gea - Profesor Beltr\u00e1n B\u00e1guena",
-  "number": 142,
+  "address": "Perez Gald\u00f3s - Nou Moles",
+  "number": 201,
   "open": "T",
-  "available": 6,
-  "free": 18,
-  "total": 25,
+  "available": 8,
+  "free": 12,
+  "total": 20,
   "ticket": "F",
-  "updated_at": "02/12/2023 11:01:08",
+  "updated_at": "02/12/2023 13:00:39",
   "geo_shape": {
     "type": "Feature",
     "geometry": {
       "coordinates": [
-        -0.38965942617943544,
-        39.48192036501599
+        -0.39366844724894096,
+        39.47171233289752
       ],
       "type": "Point"
     },
     "properties": {}
   },
   "geo_point_2d": {
-    "lon": -0.38965942617943544,
-    "lat": 39.48192036501599
-  }
+    "lon": -0.39366844724894096,
+    "lat": 39.47171233289752
+  },
+  "timestamp": "20231202130039"
 }

@@ -1,0 +1,25 @@
+{
+  "address": "C/GUILLEM DE CASTRO esquina con C/NA JORDANA",
+  "number": 1,
+  "open": "T",
+  "available": 1,
+  "free": 24,
+  "total": 25,
+  "ticket": "T",
+  "updated_at": "02/12/2023 13:00:39",
+  "geo_shape": {
+    "type": "Feature",
+    "geometry": {
+      "coordinates": [
+        -0.38292927973315827,
+        39.48004223020643
+      ],
+      "type": "Point"
+    },
+    "properties": {}
+  },
+  "geo_point_2d": {
+    "lon": -0.38292927973315827,
+    "lat": 39.48004223020643
+  }
+}

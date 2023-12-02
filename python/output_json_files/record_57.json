@@ -1,25 +1,26 @@
 {
-  "address": "Blasco Iba\u00f1ez - Poeta Dur\u00e1n Tortajada",
-  "number": 93,
+  "address": "San Jos\u00e9 de Calasanz - Salas Quiroga",
+  "number": 26,
   "open": "T",
-  "available": 32,
-  "free": 6,
-  "total": 38,
-  "ticket": "T",
-  "updated_at": "02/12/2023 11:01:08",
+  "available": 6,
+  "free": 7,
+  "total": 15,
+  "ticket": "F",
+  "updated_at": "02/12/2023 13:00:39",
   "geo_shape": {
     "type": "Feature",
     "geometry": {
       "coordinates": [
-        -0.34380927742382206,
-        39.472282310670764
+        -0.3860524260304749,
+        39.46619531059966
       ],
       "type": "Point"
     },
     "properties": {}
   },
   "geo_point_2d": {
-    "lon": -0.34380927742382206,
-    "lat": 39.472282310670764
-  }
+    "lon": -0.3860524260304749,
+    "lat": 39.46619531059966
+  },
+  "timestamp": "20231202130039"
 }
