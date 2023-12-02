@@ -1,0 +1,1 @@
+open /Applications/Python\ 3.11/Install\ Certificates.command
