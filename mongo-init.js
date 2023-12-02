@@ -1,12 +1,2 @@
-db.createUser(
-    {
-        user: "root",
-        pwd: "example",
-        roles: [
-            {
-                role: "admin",
-                db: "valenbisi"
-            }
-        ]
-    }
-);
+db = db.getSiblingDB('Valenbisi');
+db.createCollection('Paradas de Valenbisi');
