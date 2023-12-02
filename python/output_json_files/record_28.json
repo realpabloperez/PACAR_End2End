@@ -1,0 +1,25 @@
+{
+  "address": "Fray Juan\u00edpero Serra - Torrente",
+  "number": 212,
+  "open": "T",
+  "available": 1,
+  "free": 14,
+  "total": 15,
+  "ticket": "T",
+  "updated_at": "02/12/2023 11:01:08",
+  "geo_shape": {
+    "type": "Feature",
+    "geometry": {
+      "coordinates": [
+        -0.40039647823746194,
+        39.46148430130945
+      ],
+      "type": "Point"
+    },
+    "properties": {}
+  },
+  "geo_point_2d": {
+    "lon": -0.40039647823746194,
+    "lat": 39.46148430130945
+  }
+}

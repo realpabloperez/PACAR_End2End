@@ -1,0 +1,25 @@
+{
+  "address": "Fontanars dels Aforins - Vall d'Uix\u00f3",
+  "number": 198,
+  "open": "T",
+  "available": 15,
+  "free": 5,
+  "total": 20,
+  "ticket": "T",
+  "updated_at": "02/12/2023 11:01:08",
+  "geo_shape": {
+    "type": "Feature",
+    "geometry": {
+      "coordinates": [
+        -0.395316462028443,
+        39.46088029740053
+      ],
+      "type": "Point"
+    },
+    "properties": {}
+  },
+  "geo_point_2d": {
+    "lon": -0.395316462028443,
+    "lat": 39.46088029740053
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "address": "Antonio Ferrandis - General Urrutia",
+  "number": 48,
+  "open": "T",
+  "available": 14,
+  "free": 6,
+  "total": 20,
+  "ticket": "F",
+  "updated_at": "02/12/2023 11:01:08",
+  "geo_shape": {
+    "type": "Feature",
+    "geometry": {
+      "coordinates": [
+        -0.35855273823228967,
+        39.450807354184086
+      ],
+      "type": "Point"
+    },
+    "properties": {}
+  },
+  "geo_point_2d": {
+    "lon": -0.35855273823228967,
+    "lat": 39.450807354184086
+  }
+}

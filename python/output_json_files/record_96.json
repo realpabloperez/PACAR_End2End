@@ -1,0 +1,25 @@
+{
+  "address": "Peris y Valero - Salamanca",
+  "number": 149,
+  "open": "T",
+  "available": 0,
+  "free": 20,
+  "total": 20,
+  "ticket": "F",
+  "updated_at": "02/12/2023 11:01:08",
+  "geo_shape": {
+    "type": "Feature",
+    "geometry": {
+      "coordinates": [
+        -0.36179534600499663,
+        39.462934287947085
+      ],
+      "type": "Point"
+    },
+    "properties": {}
+  },
+  "geo_point_2d": {
+    "lon": -0.36179534600499663,
+    "lat": 39.462934287947085
+  }
+}

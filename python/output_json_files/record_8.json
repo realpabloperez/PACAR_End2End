@@ -1,0 +1,25 @@
+{
+  "address": "Vicent Vidal - Pintor Maella",
+  "number": 61,
+  "open": "T",
+  "available": 16,
+  "free": 4,
+  "total": 20,
+  "ticket": "T",
+  "updated_at": "02/12/2023 11:01:08",
+  "geo_shape": {
+    "type": "Feature",
+    "geometry": {
+      "coordinates": [
+        -0.34783029886743094,
+        39.46129327599964
+      ],
+      "type": "Point"
+    },
+    "properties": {}
+  },
+  "geo_point_2d": {
+    "lon": -0.34783029886743094,
+    "lat": 39.46129327599964
+  }
+}

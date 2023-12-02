@@ -1,0 +1,25 @@
+{
+  "address": "Puerto Rico - Cuba",
+  "number": 156,
+  "open": "T",
+  "available": 6,
+  "free": 9,
+  "total": 15,
+  "ticket": "F",
+  "updated_at": "02/12/2023 11:01:08",
+  "geo_shape": {
+    "type": "Feature",
+    "geometry": {
+      "coordinates": [
+        -0.3763453968184098,
+        39.46096428829767
+      ],
+      "type": "Point"
+    },
+    "properties": {}
+  },
+  "geo_point_2d": {
+    "lon": -0.3763453968184098,
+    "lat": 39.46096428829767
+  }
+}

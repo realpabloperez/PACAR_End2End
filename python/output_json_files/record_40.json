@@ -1,0 +1,25 @@
+{
+  "address": "Pio IX - M\u00fasico Cabanilles",
+  "number": 259,
+  "open": "T",
+  "available": 17,
+  "free": 3,
+  "total": 20,
+  "ticket": "T",
+  "updated_at": "02/12/2023 11:01:08",
+  "geo_shape": {
+    "type": "Feature",
+    "geometry": {
+      "coordinates": [
+        -0.3930154660803912,
+        39.44546024514969
+      ],
+      "type": "Point"
+    },
+    "properties": {}
+  },
+  "geo_point_2d": {
+    "lon": -0.3930154660803912,
+    "lat": 39.44546024514969
+  }
+}

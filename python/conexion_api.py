@@ -11,5 +11,5 @@ file = open("archivos/datos.json", "w")
 file.write(data)
 
 new_data = json.loads(data)
-get_articles = new_data['results']
-new_data_articles = json.dumps(get_articles)
+get_results = new_data['results']
+new_data_results = json.dumps(get_results)

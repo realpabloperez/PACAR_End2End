@@ -1,0 +1,25 @@
+{
+  "address": "German\u00edas - Ruzafa",
+  "number": 33,
+  "open": "T",
+  "available": 12,
+  "free": 8,
+  "total": 20,
+  "ticket": "T",
+  "updated_at": "02/12/2023 11:01:08",
+  "geo_shape": {
+    "type": "Feature",
+    "geometry": {
+      "coordinates": [
+        -0.37399038562310283,
+        39.46481830023885
+      ],
+      "type": "Point"
+    },
+    "properties": {}
+  },
+  "geo_point_2d": {
+    "lon": -0.37399038562310283,
+    "lat": 39.46481830023885
+  }
+}

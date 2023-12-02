@@ -1,0 +1,25 @@
+{
+  "address": "Rep\u00fablica Argentina - Campoamor",
+  "number": 75,
+  "open": "T",
+  "available": 13,
+  "free": 12,
+  "total": 25,
+  "ticket": "T",
+  "updated_at": "02/12/2023 11:01:08",
+  "geo_shape": {
+    "type": "Feature",
+    "geometry": {
+      "coordinates": [
+        -0.35170130420295115,
+        39.472113313853896
+      ],
+      "type": "Point"
+    },
+    "properties": {}
+  },
+  "geo_point_2d": {
+    "lon": -0.35170130420295115,
+    "lat": 39.472113313853896
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "address": "Doctor Lluch - Virgen del Sufragio",
+  "number": 158,
+  "open": "T",
+  "available": 15,
+  "free": 0,
+  "total": 15,
+  "ticket": "F",
+  "updated_at": "02/12/2023 11:01:08",
+  "geo_shape": {
+    "type": "Feature",
+    "geometry": {
+      "coordinates": [
+        -0.3277192268301427,
+        39.46669828513057
+      ],
+      "type": "Point"
+    },
+    "properties": {}
+  },
+  "geo_point_2d": {
+    "lon": -0.3277192268301427,
+    "lat": 39.46669828513057
+  }
+}

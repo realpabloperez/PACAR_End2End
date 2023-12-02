@@ -1,0 +1,25 @@
+{
+  "address": "UPV Inform\u00e1tica",
+  "number": 114,
+  "open": "T",
+  "available": 0,
+  "free": 30,
+  "total": 30,
+  "ticket": "F",
+  "updated_at": "02/12/2023 11:01:08",
+  "geo_shape": {
+    "type": "Feature",
+    "geometry": {
+      "coordinates": [
+        -0.346591279156021,
+        39.4818043438759
+      ],
+      "type": "Point"
+    },
+    "properties": {}
+  },
+  "geo_point_2d": {
+    "lon": -0.346591279156021,
+    "lat": 39.4818043438759
+  }
+}

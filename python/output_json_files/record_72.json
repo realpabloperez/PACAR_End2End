@@ -1,0 +1,25 @@
+{
+  "address": "Economista Gay - Constituci\u00f3n",
+  "number": 136,
+  "open": "T",
+  "available": 4,
+  "free": 16,
+  "total": 20,
+  "ticket": "F",
+  "updated_at": "02/12/2023 11:01:08",
+  "geo_shape": {
+    "type": "Feature",
+    "geometry": {
+      "coordinates": [
+        -0.37561037166808026,
+        39.48994138447594
+      ],
+      "type": "Point"
+    },
+    "properties": {}
+  },
+  "geo_point_2d": {
+    "lon": -0.37561037166808026,
+    "lat": 39.48994138447594
+  }
+}

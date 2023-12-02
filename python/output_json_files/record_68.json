@@ -1,0 +1,25 @@
+{
+  "address": "Gasc\u00f3 Oliag - Primado Reig",
+  "number": 117,
+  "open": "T",
+  "available": 22,
+  "free": 7,
+  "total": 30,
+  "ticket": "T",
+  "updated_at": "02/12/2023 11:01:08",
+  "geo_shape": {
+    "type": "Feature",
+    "geometry": {
+      "coordinates": [
+        -0.357065317141581,
+        39.47925133992885
+      ],
+      "type": "Point"
+    },
+    "properties": {}
+  },
+  "geo_point_2d": {
+    "lon": -0.357065317141581,
+    "lat": 39.47925133992885
+  }
+}

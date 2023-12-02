@@ -1,0 +1,25 @@
+{
+  "address": "Francisco Cubells - San Jos\u00e9 de la Vega",
+  "number": 159,
+  "open": "T",
+  "available": 10,
+  "free": 7,
+  "total": 17,
+  "ticket": "F",
+  "updated_at": "02/12/2023 11:01:08",
+  "geo_shape": {
+    "type": "Feature",
+    "geometry": {
+      "coordinates": [
+        -0.3347222532485526,
+        39.463449276866356
+      ],
+      "type": "Point"
+    },
+    "properties": {}
+  },
+  "geo_point_2d": {
+    "lon": -0.3347222532485526,
+    "lat": 39.463449276866356
+  }
+}

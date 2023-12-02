@@ -1,0 +1,25 @@
+{
+  "address": "Traginers - Pedrapiquers",
+  "number": 260,
+  "open": "T",
+  "available": 4,
+  "free": 16,
+  "total": 20,
+  "ticket": "F",
+  "updated_at": "02/12/2023 11:01:08",
+  "geo_shape": {
+    "type": "Feature",
+    "geometry": {
+      "coordinates": [
+        -0.4072175039832668,
+        39.45955629873093
+      ],
+      "type": "Point"
+    },
+    "properties": {}
+  },
+  "geo_point_2d": {
+    "lon": -0.4072175039832668,
+    "lat": 39.45955629873093
+  }
+}

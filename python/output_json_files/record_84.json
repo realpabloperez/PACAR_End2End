@@ -1,0 +1,25 @@
+{
+  "address": "Jer\u00f3nimo Mu\u00f1oz - Gaspar Aguilar",
+  "number": 196,
+  "open": "T",
+  "available": 6,
+  "free": 9,
+  "total": 15,
+  "ticket": "T",
+  "updated_at": "02/12/2023 11:01:08",
+  "geo_shape": {
+    "type": "Feature",
+    "geometry": {
+      "coordinates": [
+        -0.3880664379854734,
+        39.45957528956863
+      ],
+      "type": "Point"
+    },
+    "properties": {}
+  },
+  "geo_point_2d": {
+    "lon": -0.3880664379854734,
+    "lat": 39.45957528956863
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "address": "Uruguay - Carteros",
+  "number": 193,
+  "open": "T",
+  "available": 8,
+  "free": 12,
+  "total": 20,
+  "ticket": "T",
+  "updated_at": "02/12/2023 11:01:08",
+  "geo_shape": {
+    "type": "Feature",
+    "geometry": {
+      "coordinates": [
+        -0.386718436578698,
+        39.45514627443484
+      ],
+      "type": "Point"
+    },
+    "properties": {}
+  },
+  "geo_point_2d": {
+    "lon": -0.386718436578698,
+    "lat": 39.45514627443484
+  }
+}

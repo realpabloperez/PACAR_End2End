@@ -1,0 +1,25 @@
+{
+  "address": "Constituci\u00f3n - Reus",
+  "number": 135,
+  "open": "T",
+  "available": 8,
+  "free": 12,
+  "total": 20,
+  "ticket": "T",
+  "updated_at": "02/12/2023 11:01:08",
+  "geo_shape": {
+    "type": "Feature",
+    "geometry": {
+      "coordinates": [
+        -0.37850138478156414,
+        39.48570237196362
+      ],
+      "type": "Point"
+    },
+    "properties": {}
+  },
+  "geo_point_2d": {
+    "lon": -0.37850138478156414,
+    "lat": 39.48570237196362
+  }
+}

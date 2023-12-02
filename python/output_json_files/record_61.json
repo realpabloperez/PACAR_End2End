@@ -1,0 +1,25 @@
+{
+  "address": "Blasco Iba\u00f1ez, 28 (F. Geograf\u00eda e Historia)",
+  "number": 88,
+  "open": "T",
+  "available": 7,
+  "free": 33,
+  "total": 40,
+  "ticket": "T",
+  "updated_at": "02/12/2023 11:01:08",
+  "geo_shape": {
+    "type": "Feature",
+    "geometry": {
+      "coordinates": [
+        -0.36114233248377353,
+        39.477512336096844
+      ],
+      "type": "Point"
+    },
+    "properties": {}
+  },
+  "geo_point_2d": {
+    "lon": -0.36114233248377353,
+    "lat": 39.477512336096844
+  }
+}

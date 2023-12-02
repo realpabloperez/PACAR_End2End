@@ -1,0 +1,25 @@
+{
+  "address": "La Safor - Maestro Rodrigo",
+  "number": 242,
+  "open": "T",
+  "available": 9,
+  "free": 6,
+  "total": 15,
+  "ticket": "F",
+  "updated_at": "02/12/2023 11:01:08",
+  "geo_shape": {
+    "type": "Feature",
+    "geometry": {
+      "coordinates": [
+        -0.4041974712326189,
+        39.487907391410516
+      ],
+      "type": "Point"
+    },
+    "properties": {}
+  },
+  "geo_point_2d": {
+    "lon": -0.4041974712326189,
+    "lat": 39.487907391410516
+  }
+}

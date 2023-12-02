@@ -1,0 +1,25 @@
+{
+  "address": "Blasco Iba\u00f1ez - Clariano",
+  "number": 94,
+  "open": "T",
+  "available": 15,
+  "free": 5,
+  "total": 20,
+  "ticket": "F",
+  "updated_at": "02/12/2023 11:01:08",
+  "geo_shape": {
+    "type": "Feature",
+    "geometry": {
+      "coordinates": [
+        -0.35158330144926053,
+        39.47537832465668
+      ],
+      "type": "Point"
+    },
+    "properties": {}
+  },
+  "geo_point_2d": {
+    "lon": -0.35158330144926053,
+    "lat": 39.47537832465668
+  }
+}

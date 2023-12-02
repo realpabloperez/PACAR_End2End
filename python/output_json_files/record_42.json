@@ -1,0 +1,25 @@
+{
+  "address": "Plaza del Mercado - Taula de Canvis",
+  "number": 7,
+  "open": "T",
+  "available": 3,
+  "free": 16,
+  "total": 19,
+  "ticket": "T",
+  "updated_at": "02/12/2023 11:01:08",
+  "geo_shape": {
+    "type": "Feature",
+    "geometry": {
+      "coordinates": [
+        -0.3791853952972924,
+        39.47487233593648
+      ],
+      "type": "Point"
+    },
+    "properties": {}
+  },
+  "geo_point_2d": {
+    "lon": -0.3791853952972924,
+    "lat": 39.47487233593648
+  }
+}

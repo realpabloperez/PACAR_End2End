@@ -1,0 +1,25 @@
+{
+  "address": "Don Vicente Guillot - Progreso",
+  "number": 166,
+  "open": "T",
+  "available": 13,
+  "free": 2,
+  "total": 15,
+  "ticket": "F",
+  "updated_at": "02/12/2023 11:01:08",
+  "geo_shape": {
+    "type": "Feature",
+    "geometry": {
+      "coordinates": [
+        -0.32881122495787873,
+        39.47334930757559
+      ],
+      "type": "Point"
+    },
+    "properties": {}
+  },
+  "geo_point_2d": {
+    "lon": -0.32881122495787873,
+    "lat": 39.47334930757559
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "address": "\u00c1ngel Villena - Ausias March",
+  "number": 187,
+  "open": "T",
+  "available": 4,
+  "free": 11,
+  "total": 15,
+  "ticket": "T",
+  "updated_at": "02/12/2023 11:01:08",
+  "geo_shape": {
+    "type": "Feature",
+    "geometry": {
+      "coordinates": [
+        -0.3688183809361798,
+        39.447960241518516
+      ],
+      "type": "Point"
+    },
+    "properties": {}
+  },
+  "geo_point_2d": {
+    "lon": -0.3688183809361798,
+    "lat": 39.447960241518516
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "address": "Monduber - Peset Aleixandre",
+  "number": 174,
+  "open": "T",
+  "available": 8,
+  "free": 11,
+  "total": 19,
+  "ticket": "T",
+  "updated_at": "02/12/2023 11:01:08",
+  "geo_shape": {
+    "type": "Feature",
+    "geometry": {
+      "coordinates": [
+        -0.38664740957644866,
+        39.489438388167024
+      ],
+      "type": "Point"
+    },
+    "properties": {}
+  },
+  "geo_point_2d": {
+    "lon": -0.38664740957644866,
+    "lat": 39.489438388167024
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "address": "Reina Violante - Escultor Garc\u00eda Mas",
+  "number": 203,
+  "open": "T",
+  "available": 8,
+  "free": 7,
+  "total": 15,
+  "ticket": "F",
+  "updated_at": "02/12/2023 11:01:08",
+  "geo_shape": {
+    "type": "Feature",
+    "geometry": {
+      "coordinates": [
+        -0.40118246297404103,
+        39.48460937883364
+      ],
+      "type": "Point"
+    },
+    "properties": {}
+  },
+  "geo_point_2d": {
+    "lon": -0.40118246297404103,
+    "lat": 39.48460937883364
+  }
+}

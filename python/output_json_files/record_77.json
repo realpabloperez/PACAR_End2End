@@ -1,0 +1,25 @@
+{
+  "address": "Gran Canaria - Ingeniero Manuel Maese",
+  "number": 171,
+  "open": "T",
+  "available": 11,
+  "free": 4,
+  "total": 15,
+  "ticket": "F",
+  "updated_at": "02/12/2023 11:01:08",
+  "geo_shape": {
+    "type": "Feature",
+    "geometry": {
+      "coordinates": [
+        -0.32900821806202085,
+        39.483060339803416
+      ],
+      "type": "Point"
+    },
+    "properties": {}
+  },
+  "geo_point_2d": {
+    "lon": -0.32900821806202085,
+    "lat": 39.483060339803416
+  }
+}

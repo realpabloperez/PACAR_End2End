@@ -1,0 +1,25 @@
+{
+  "address": "Ausias March - Pianista Amparo Iturbi",
+  "number": 182,
+  "open": "T",
+  "available": 16,
+  "free": 5,
+  "total": 21,
+  "ticket": "F",
+  "updated_at": "02/12/2023 11:01:08",
+  "geo_shape": {
+    "type": "Feature",
+    "geometry": {
+      "coordinates": [
+        -0.37496539716978367,
+        39.455432269344854
+      ],
+      "type": "Point"
+    },
+    "properties": {}
+  },
+  "geo_point_2d": {
+    "lon": -0.37496539716978367,
+    "lat": 39.455432269344854
+  }
+}

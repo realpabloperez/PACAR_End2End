@@ -1,0 +1,25 @@
+{
+  "address": "Santa Cruz de Tenerife, 21",
+  "number": 214,
+  "open": "T",
+  "available": 1,
+  "free": 14,
+  "total": 15,
+  "ticket": "T",
+  "updated_at": "02/12/2023 11:01:08",
+  "geo_shape": {
+    "type": "Feature",
+    "geometry": {
+      "coordinates": [
+        -0.4005764763988502,
+        39.464932313028335
+      ],
+      "type": "Point"
+    },
+    "properties": {}
+  },
+  "geo_point_2d": {
+    "lon": -0.4005764763988502,
+    "lat": 39.464932313028335
+  }
+}

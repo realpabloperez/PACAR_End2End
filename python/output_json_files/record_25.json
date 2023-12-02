@@ -1,0 +1,25 @@
+{
+  "address": "Peris y Valero - Luis Sant\u00e1ngel",
+  "number": 37,
+  "open": "T",
+  "available": 6,
+  "free": 14,
+  "total": 20,
+  "ticket": "T",
+  "updated_at": "02/12/2023 11:01:08",
+  "geo_shape": {
+    "type": "Feature",
+    "geometry": {
+      "coordinates": [
+        -0.3664406250017559,
+        39.460937800028375
+      ],
+      "type": "Point"
+    },
+    "properties": {}
+  },
+  "geo_point_2d": {
+    "lon": -0.3664406250017559,
+    "lat": 39.460937800028375
+  }
+}
