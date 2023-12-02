@@ -1,11 +1,11 @@
-import requests
+import urllib.request
 import json
 
-url = "https://valencia.opendatasoft.com/api/explore/v2.1/catalog/datasets/valenbisi-disponibilitat-valenbisi-dsiponibilidad/records?limit=20"
+url = "https://valencia.opendatasoft.com/api/explore/v2.1/catalog/datasets/valenbisi-disponibilitat-valenbisi-dsiponibilidad/records?"
 
-response = requests.get(url)
+response = urllib.request.urlopen(url)
 
-if response.ok:
-    response.json()
+data = response.read().decode('UTF-8')
 
-data = response.read().decode
+file = open("archivos/datos.json", "w")
+file.write(data)
