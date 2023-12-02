@@ -1,20 +1,18 @@
 import json
 from pymongo import MongoClient 
 
-myclient = MongoClient("mongodb://localhost:27017/") 
+myclient = MongoClient("mongodb://root:example@localhost:27017/?authSource=admin")
 
-db = myclient["Valenbisi"]
+base_de_datos = myclient.Valenbisi
+collection = base_de_datos["Paradas de Valenbisi"]
 
-Collection = db["Paradas de Valenbisi"]
 
-# Loading or Opening the json file
-with open('output_json_files/record_1.json') as file:
-	file_data = json.load(file)
-	
-# Inserting the loaded data in the Collection
-# if JSON contains data more than one entry
-# insert_many is used else insert_one is used
-if isinstance(file_data, list):
-	Collection.insert_many(file_data) 
-else:
-	Collection.insert_one(file_data)
+for i in range(1,101):
+	with open(f'output_json_files/record_{i}.json') as file:
+		file_data = json.load(file)
+		
+	if isinstance(file_data, list):
+		collection.insert_many(file_data) 
+	else:
+		collection.insert_one(file_data)
+
