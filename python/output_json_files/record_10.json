@@ -1,0 +1,25 @@
+{
+  "address": "Pintor Stolz - Nueve de Octubre",
+  "number": 217,
+  "open": "T",
+  "available": 2,
+  "free": 23,
+  "total": 25,
+  "ticket": "T",
+  "updated_at": "02/12/2023 11:01:08",
+  "geo_shape": {
+    "type": "Feature",
+    "geometry": {
+      "coordinates": [
+        -0.40459648652865626,
+        39.47032833321364
+      ],
+      "type": "Point"
+    },
+    "properties": {}
+  },
+  "geo_point_2d": {
+    "lon": -0.40459648652865626,
+    "lat": 39.47032833321364
+  }
+}

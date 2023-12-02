@@ -1,0 +1,25 @@
+{
+  "address": "Murta - Sant Eperit",
+  "number": 121,
+  "open": "T",
+  "available": 6,
+  "free": 9,
+  "total": 15,
+  "ticket": "F",
+  "updated_at": "02/12/2023 11:01:08",
+  "geo_shape": {
+    "type": "Feature",
+    "geometry": {
+      "coordinates": [
+        -0.35877131748144303,
+        39.48618236435413
+      ],
+      "type": "Point"
+    },
+    "properties": {}
+  },
+  "geo_point_2d": {
+    "lon": -0.35877131748144303,
+    "lat": 39.48618236435413
+  }
+}

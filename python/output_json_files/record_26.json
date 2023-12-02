@@ -1,0 +1,25 @@
+{
+  "address": "Pescadores - Progreso",
+  "number": 154,
+  "open": "T",
+  "available": 14,
+  "free": 1,
+  "total": 15,
+  "ticket": "F",
+  "updated_at": "02/12/2023 11:01:08",
+  "geo_shape": {
+    "type": "Feature",
+    "geometry": {
+      "coordinates": [
+        -0.3295542305651281,
+        39.469876296228996
+      ],
+      "type": "Point"
+    },
+    "properties": {}
+  },
+  "geo_point_2d": {
+    "lon": -0.3295542305651281,
+    "lat": 39.469876296228996
+  }
+}

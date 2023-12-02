@@ -1,0 +1,25 @@
+{
+  "address": "San Vicente Martir - Doctor Vil\u00e1 Barber\u00e1",
+  "number": 27,
+  "open": "T",
+  "available": 0,
+  "free": 20,
+  "total": 20,
+  "ticket": "F",
+  "updated_at": "02/12/2023 11:01:08",
+  "geo_shape": {
+    "type": "Feature",
+    "geometry": {
+      "coordinates": [
+        -0.3818514137102655,
+        39.463362299305594
+      ],
+      "type": "Point"
+    },
+    "properties": {}
+  },
+  "geo_point_2d": {
+    "lon": -0.3818514137102655,
+    "lat": 39.463362299305594
+  }
+}

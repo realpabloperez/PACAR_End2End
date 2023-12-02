@@ -1,0 +1,25 @@
+{
+  "address": "Alameda - Pintor Maella",
+  "number": 53,
+  "open": "T",
+  "available": 23,
+  "free": 2,
+  "total": 25,
+  "ticket": "F",
+  "updated_at": "02/12/2023 11:01:08",
+  "geo_shape": {
+    "type": "Feature",
+    "geometry": {
+      "coordinates": [
+        -0.34813930400480075,
+        39.45676426141678
+      ],
+      "type": "Point"
+    },
+    "properties": {}
+  },
+  "geo_point_2d": {
+    "lon": -0.34813930400480075,
+    "lat": 39.45676426141678
+  }
+}

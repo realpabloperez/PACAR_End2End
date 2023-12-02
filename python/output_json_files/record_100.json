@@ -1,0 +1,25 @@
+{
+  "address": "Paseo Neptuno 32-34",
+  "number": 163,
+  "open": "T",
+  "available": 15,
+  "free": 4,
+  "total": 20,
+  "ticket": "T",
+  "updated_at": "02/12/2023 11:01:08",
+  "geo_shape": {
+    "type": "Feature",
+    "geometry": {
+      "coordinates": [
+        -0.3234012136184579,
+        39.46443727525528
+      ],
+      "type": "Point"
+    },
+    "properties": {}
+  },
+  "geo_point_2d": {
+    "lon": -0.3234012136184579,
+    "lat": 39.46443727525528
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "address": "Navarro Reverter - Grabador Esteve",
+  "number": 28,
+  "open": "T",
+  "available": 0,
+  "free": 29,
+  "total": 29,
+  "ticket": "F",
+  "updated_at": "02/12/2023 11:01:08",
+  "geo_shape": {
+    "type": "Feature",
+    "geometry": {
+      "coordinates": [
+        -0.36775135880068294,
+        39.47158231958138
+      ],
+      "type": "Point"
+    },
+    "properties": {}
+  },
+  "geo_point_2d": {
+    "lon": -0.36775135880068294,
+    "lat": 39.47158231958138
+  }
+}

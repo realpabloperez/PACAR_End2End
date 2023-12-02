@@ -1,0 +1,25 @@
+{
+  "address": "Reina Do\u00f1a Mar\u00eda - C\u00e1diz",
+  "number": 152,
+  "open": "T",
+  "available": 8,
+  "free": 7,
+  "total": 15,
+  "ticket": "T",
+  "updated_at": "02/12/2023 11:01:08",
+  "geo_shape": {
+    "type": "Feature",
+    "geometry": {
+      "coordinates": [
+        -0.3727053849231208,
+        39.460925286769694
+      ],
+      "type": "Point"
+    },
+    "properties": {}
+  },
+  "geo_point_2d": {
+    "lon": -0.3727053849231208,
+    "lat": 39.460925286769694
+  }
+}

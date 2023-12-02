@@ -1,0 +1,25 @@
+{
+  "address": "Regne de Valencia - Almirante Cadarso",
+  "number": 35,
+  "open": "T",
+  "available": 1,
+  "free": 14,
+  "total": 20,
+  "ticket": "T",
+  "updated_at": "02/12/2023 11:01:08",
+  "geo_shape": {
+    "type": "Feature",
+    "geometry": {
+      "coordinates": [
+        -0.36699436340059455,
+        39.46374929341137
+      ],
+      "type": "Point"
+    },
+    "properties": {}
+  },
+  "geo_point_2d": {
+    "lon": -0.36699436340059455,
+    "lat": 39.46374929341137
+  }
+}

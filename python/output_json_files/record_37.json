@@ -1,0 +1,25 @@
+{
+  "address": "Doctor Tom\u00e1s Sala - Carteros",
+  "number": 254,
+  "open": "T",
+  "available": 13,
+  "free": 6,
+  "total": 19,
+  "ticket": "T",
+  "updated_at": "02/12/2023 11:01:08",
+  "geo_shape": {
+    "type": "Feature",
+    "geometry": {
+      "coordinates": [
+        -0.3899174536874086,
+        39.447714251158565
+      ],
+      "type": "Point"
+    },
+    "properties": {}
+  },
+  "geo_point_2d": {
+    "lon": -0.3899174536874086,
+    "lat": 39.447714251158565
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "address": "Pie de la Cruz - Rejas",
+  "number": 147,
+  "open": "T",
+  "available": 7,
+  "free": 7,
+  "total": 15,
+  "ticket": "F",
+  "updated_at": "02/12/2023 11:01:08",
+  "geo_shape": {
+    "type": "Feature",
+    "geometry": {
+      "coordinates": [
+        -0.3802074001545322,
+        39.47320133107913
+      ],
+      "type": "Point"
+    },
+    "properties": {}
+  },
+  "geo_point_2d": {
+    "lon": -0.3802074001545322,
+    "lat": 39.47320133107913
+  }
+}

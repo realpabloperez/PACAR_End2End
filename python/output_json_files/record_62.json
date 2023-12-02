@@ -1,0 +1,25 @@
+{
+  "address": "Blasco Iba\u00f1ez, 32 (F. Filolog\u00eda)",
+  "number": 90,
+  "open": "T",
+  "available": 1,
+  "free": 39,
+  "total": 40,
+  "ticket": "F",
+  "updated_at": "02/12/2023 11:01:08",
+  "geo_shape": {
+    "type": "Feature",
+    "geometry": {
+      "coordinates": [
+        -0.3589673254467337,
+        39.47673433298103
+      ],
+      "type": "Point"
+    },
+    "properties": {}
+  },
+  "geo_point_2d": {
+    "lon": -0.3589673254467337,
+    "lat": 39.47673433298103
+  }
+}

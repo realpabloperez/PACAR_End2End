@@ -1,0 +1,25 @@
+{
+  "address": "Gregorio Gea - Profesor Beltr\u00e1n B\u00e1guena",
+  "number": 142,
+  "open": "T",
+  "available": 6,
+  "free": 18,
+  "total": 25,
+  "ticket": "F",
+  "updated_at": "02/12/2023 11:01:08",
+  "geo_shape": {
+    "type": "Feature",
+    "geometry": {
+      "coordinates": [
+        -0.38965942617943544,
+        39.48192036501599
+      ],
+      "type": "Point"
+    },
+    "properties": {}
+  },
+  "geo_point_2d": {
+    "lon": -0.38965942617943544,
+    "lat": 39.48192036501599
+  }
+}

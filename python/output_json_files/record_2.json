@@ -1,0 +1,25 @@
+{
+  "address": "Naranjos - Ingeniero Fausto Elio",
+  "number": 109,
+  "open": "T",
+  "available": 13,
+  "free": 7,
+  "total": 20,
+  "ticket": "T",
+  "updated_at": "02/12/2023 11:01:08",
+  "geo_shape": {
+    "type": "Feature",
+    "geometry": {
+      "coordinates": [
+        -0.3335102388084858,
+        39.4768193210939
+      ],
+      "type": "Point"
+    },
+    "properties": {}
+  },
+  "geo_point_2d": {
+    "lon": -0.3335102388084858,
+    "lat": 39.4768193210939
+  }
+}

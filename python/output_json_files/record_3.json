@@ -1,0 +1,25 @@
+{
+  "address": "Canal de Navarr\u00e9s - Maestro Rodrigo",
+  "number": 266,
+  "open": "T",
+  "available": 9,
+  "free": 9,
+  "total": 18,
+  "ticket": "T",
+  "updated_at": "02/12/2023 11:01:08",
+  "geo_shape": {
+    "type": "Feature",
+    "geometry": {
+      "coordinates": [
+        -0.40637147642320165,
+        39.49028940014262
+      ],
+      "type": "Point"
+    },
+    "properties": {}
+  },
+  "geo_point_2d": {
+    "lon": -0.40637147642320165,
+    "lat": 39.49028940014262
+  }
+}

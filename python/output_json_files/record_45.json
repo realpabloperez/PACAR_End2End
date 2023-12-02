@@ -1,0 +1,25 @@
+{
+  "address": "Salvador Giner - C. Museo",
+  "number": 2,
+  "open": "T",
+  "available": 0,
+  "free": 15,
+  "total": 15,
+  "ticket": "F",
+  "updated_at": "02/12/2023 11:01:08",
+  "geo_shape": {
+    "type": "Feature",
+    "geometry": {
+      "coordinates": [
+        -0.3797483936090024,
+        39.479889353348874
+      ],
+      "type": "Point"
+    },
+    "properties": {}
+  },
+  "geo_point_2d": {
+    "lon": -0.3797483936090024,
+    "lat": 39.479889353348874
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "address": "Tres Forques - Colonia Espa\u00f1ola de Mexico",
+  "number": 262,
+  "open": "T",
+  "available": 2,
+  "free": 16,
+  "total": 20,
+  "ticket": "T",
+  "updated_at": "02/12/2023 11:01:08",
+  "geo_shape": {
+    "type": "Feature",
+    "geometry": {
+      "coordinates": [
+        -0.40922550688289966,
+        39.463472312903384
+      ],
+      "type": "Point"
+    },
+    "properties": {}
+  },
+  "geo_point_2d": {
+    "lon": -0.40922550688289966,
+    "lat": 39.463472312903384
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "address": "Blasco Iba\u00f1ez 121",
+  "number": 97,
+  "open": "T",
+  "available": 10,
+  "free": 13,
+  "total": 23,
+  "ticket": "F",
+  "updated_at": "02/12/2023 11:01:08",
+  "geo_shape": {
+    "type": "Feature",
+    "geometry": {
+      "coordinates": [
+        -0.3431322739648798,
+        39.47306831276613
+      ],
+      "type": "Point"
+    },
+    "properties": {}
+  },
+  "geo_point_2d": {
+    "lon": -0.3431322739648798,
+    "lat": 39.47306831276613
+  }
+}

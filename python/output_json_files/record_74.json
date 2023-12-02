@@ -1,0 +1,25 @@
+{
+  "address": "Pav\u00eda - Espad\u00e1n",
+  "number": 165,
+  "open": "T",
+  "available": 20,
+  "free": 0,
+  "total": 20,
+  "ticket": "T",
+  "updated_at": "02/12/2023 11:01:08",
+  "geo_shape": {
+    "type": "Feature",
+    "geometry": {
+      "coordinates": [
+        -0.3245702116150898,
+        39.471409299035706
+      ],
+      "type": "Point"
+    },
+    "properties": {}
+  },
+  "geo_point_2d": {
+    "lon": -0.3245702116150898,
+    "lat": 39.471409299035706
+  }
+}

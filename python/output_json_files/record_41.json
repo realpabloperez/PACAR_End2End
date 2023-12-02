@@ -1,0 +1,25 @@
+{
+  "address": "Av. Puerto 61-63",
+  "number": 64,
+  "open": "T",
+  "available": 20,
+  "free": 0,
+  "total": 20,
+  "ticket": "F",
+  "updated_at": "02/12/2023 11:01:08",
+  "geo_shape": {
+    "type": "Feature",
+    "geometry": {
+      "coordinates": [
+        -0.35419531724959286,
+        39.46651829706714
+      ],
+      "type": "Point"
+    },
+    "properties": {}
+  },
+  "geo_point_2d": {
+    "lon": -0.35419531724959286,
+    "lat": 39.46651829706714
+  }
+}

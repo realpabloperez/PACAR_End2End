@@ -1,0 +1,25 @@
+{
+  "address": "Plaza de los Fueros - Conde Trenor",
+  "number": 36,
+  "open": "T",
+  "available": 10,
+  "free": 15,
+  "total": 25,
+  "ticket": "F",
+  "updated_at": "02/12/2023 11:01:08",
+  "geo_shape": {
+    "type": "Feature",
+    "geometry": {
+      "coordinates": [
+        -0.3754363798581042,
+        39.479072348860946
+      ],
+      "type": "Point"
+    },
+    "properties": {}
+  },
+  "geo_point_2d": {
+    "lon": -0.3754363798581042,
+    "lat": 39.479072348860946
+  }
+}

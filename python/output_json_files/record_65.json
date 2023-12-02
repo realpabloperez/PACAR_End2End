@@ -1,0 +1,25 @@
+{
+  "address": "Llano de la Zaid\u00eda - Doctor Ol\u00f3riz",
+  "number": 153,
+  "open": "T",
+  "available": 9,
+  "free": 15,
+  "total": 24,
+  "ticket": "T",
+  "updated_at": "02/12/2023 11:01:08",
+  "geo_shape": {
+    "type": "Feature",
+    "geometry": {
+      "coordinates": [
+        -0.3805912745331588,
+        39.48305822805289
+      ],
+      "type": "Point"
+    },
+    "properties": {}
+  },
+  "geo_point_2d": {
+    "lon": -0.3805912745331588,
+    "lat": 39.48305822805289
+  }
+}

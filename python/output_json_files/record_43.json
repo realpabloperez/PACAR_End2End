@@ -1,0 +1,25 @@
+{
+  "address": "Col\u00f3n, 60",
+  "number": 16,
+  "open": "T",
+  "available": 1,
+  "free": 19,
+  "total": 20,
+  "ticket": "T",
+  "updated_at": "02/12/2023 11:01:08",
+  "geo_shape": {
+    "type": "Feature",
+    "geometry": {
+      "coordinates": [
+        -0.3704333693720587,
+        39.470092316192336
+      ],
+      "type": "Point"
+    },
+    "properties": {}
+  },
+  "geo_point_2d": {
+    "lon": -0.3704333693720587,
+    "lat": 39.470092316192336
+  }
+}

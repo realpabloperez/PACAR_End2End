@@ -1,0 +1,25 @@
+{
+  "address": "Col\u00f3n, 44",
+  "number": 70,
+  "open": "T",
+  "available": 1,
+  "free": 16,
+  "total": 17,
+  "ticket": "F",
+  "updated_at": "02/12/2023 11:01:08",
+  "geo_shape": {
+    "type": "Feature",
+    "geometry": {
+      "coordinates": [
+        -0.3716462894107889,
+        39.469213221319464
+      ],
+      "type": "Point"
+    },
+    "properties": {}
+  },
+  "geo_point_2d": {
+    "lon": -0.3716462894107889,
+    "lat": 39.469213221319464
+  }
+}
